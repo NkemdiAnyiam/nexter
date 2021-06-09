@@ -1,0 +1,3 @@
+#These are ignored because some of the things here are deprecated. I just used VS Code extension like Live Server and Live Sass Compiler.
+package.json
+package-lock.json
